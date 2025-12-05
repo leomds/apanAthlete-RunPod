@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+ultralytics
+rtmlib
+onnxruntime-gpu
+opencv-python-headless
+numpy
+scipy
+Pillow
+torch
+torchaudio
+torchvision
+runpod
+requests
